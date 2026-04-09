@@ -1,0 +1,5 @@
+{
+  "name": "Jesse AI Trading Dashboard",
+  "description": "A modern algorithmic trading dashboard inspired by Jesse, featuring strategy backtesting, live trading simulations, and AI-powered quantitative analysis.",
+  "requestFramePermissions": []
+}
